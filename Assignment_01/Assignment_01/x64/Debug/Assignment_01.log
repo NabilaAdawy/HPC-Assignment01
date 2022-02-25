@@ -1,0 +1,5 @@
+﻿  Assignment_01.cpp
+D:\IU\Spring 22\1st Block\HPC\Assignment 1\Assignment_01\Assignment_01\Assignment_01.cpp(243,25): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\IU\Spring 22\1st Block\HPC\Assignment 1\Assignment_01\Assignment_01\Assignment_01.cpp(516,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\IU\Spring 22\1st Block\HPC\Assignment 1\Assignment_01\Assignment_01\Assignment_01.cpp(577,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Assignment_01.vcxproj -> D:\IU\Spring 22\1st Block\HPC\Assignment 1\Assignment_01\x64\Debug\Assignment_01.exe
