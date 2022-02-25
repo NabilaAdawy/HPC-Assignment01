@@ -1,3 +1,3 @@
-# HPC-Assignment01
+# High Performance Computing Course
 
-Nabila Adawy
+# Nabila Adawy
